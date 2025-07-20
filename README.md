@@ -53,7 +53,7 @@ npm run dev
 
 ## 🌐 Live URL
 
-**https://qasimrokeeb-typing-speed-test.vercel.app/**
+**https://typing-speed-test-smoky.vercel.app/**
 
 ---
 
